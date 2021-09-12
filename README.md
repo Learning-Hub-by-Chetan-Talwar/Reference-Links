@@ -19,5 +19,4 @@
 <ul>
 <li> <a href="https://www.youtube.com/playlist?list=PLW8sN1d4Uj-9C3FzBWwg7z1hIjMx78JaU">Docker in a Simple Way</a> </li>
 <li> <a href="https://www.youtube.com/playlist?list=PLW8sN1d4Uj--GZTXKFicrvfAg0z1p3FEL">Kubernetes in a Simple Way</a> </li>
-<li> <a href="https://thinknyx.com/git-cheat-sheet/">Git Cheatsheet </a> </li>
 </ul>
